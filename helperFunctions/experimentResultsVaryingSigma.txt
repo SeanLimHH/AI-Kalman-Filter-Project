@@ -1,0 +1,984 @@
+Parameters:
+Selected Random Flights:
+1. FGALN_006
+2. GTACN_030
+3. PXR31F_001
+4. N441FS_002
+5. N441FS_003
+6. ADA4_025
+7. YS111N_042
+8. IGRAD_000
+9. VOR05_034
+10. THY1920_050
+
+Standard Deviation Values used for processNoiseErrors:
+1. 1e-07
+2. 0.30000009
+3. 0.6000000799999999
+4. 0.9000000699999999
+5. 1.20000006
+6. 1.50000005
+7. 1.80000004
+8. 2.10000003
+9. 2.40000002
+10. 2.7000000099999997
+11. 2.9999999999999996
+
+Standard Deviation Values used for observationNoiseErrors:
+1. 1e-07
+2. 30.00000009
+3. 60.00000008
+4. 90.00000007
+5. 120.00000005999999
+6. 150.00000004999998
+7. 180.00000004
+8. 210.00000003
+9. 240.00000002
+10. 270.00000001
+11. 300.0
+
+Flight FGALN_006 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 33245.846914400354
+Max distance: 106825.50362781528
+
+2. Sigma value: 0.30000009
+Mean distance: 33294.769626200716
+Max distance: 78792.44662941393
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 33262.72835889091
+Max distance: 78479.88036890537
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 33253.165101978666
+Max distance: 78314.0785802735
+
+5. Sigma value: 1.20000006
+Mean distance: 33248.83884587822
+Max distance: 78213.45479686803
+
+6. Sigma value: 1.50000005
+Mean distance: 33246.45859686245
+Max distance: 78148.32611349325
+
+7. Sigma value: 1.80000004
+Mean distance: 33244.982041143296
+Max distance: 78104.29545461778
+
+8. Sigma value: 2.10000003
+Mean distance: 33243.98861799827
+Max distance: 78073.50351082282
+
+9. Sigma value: 2.40000002
+Mean distance: 33243.28069878176
+Max distance: 78051.35318024833
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 33242.7546124947
+Max distance: 78035.02601529514
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 33242.351183331
+Max distance: 78022.73265981676
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 33240.38966874016
+Max distance: 77974.4934938655
+
+2. Sigma value: 30.00000009
+Mean distance: 33240.64353446434
+Max distance: 77976.97152222409
+
+3. Sigma value: 60.00000008
+Mean distance: 33241.66606019915
+Max distance: 78002.89201609064
+
+4. Sigma value: 90.00000007
+Mean distance: 33243.08024680145
+Max distance: 78045.36839053778
+
+5. Sigma value: 120.00000005999999
+Mean distance: 33244.69994184879
+Max distance: 78095.57648920054
+
+6. Sigma value: 150.00000004999998
+Mean distance: 33246.45859686245
+Max distance: 78148.32611349325
+
+7. Sigma value: 180.00000004
+Mean distance: 33248.32817997352
+Max distance: 78200.64243707474
+
+8. Sigma value: 210.00000003
+Mean distance: 33250.292578197295
+Max distance: 78251.01703164692
+
+9. Sigma value: 240.00000002
+Mean distance: 33252.339936986944
+Max distance: 78298.78227520661
+
+10. Sigma value: 270.00000001
+Mean distance: 33254.460577840546
+Max distance: 78343.72182219518
+
+11. Sigma value: 300.0
+Mean distance: 33256.647115346146
+Max distance: 78385.85301499994
+
+
+Flight GTACN_030 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 14265.402183647755
+Max distance: 37344.47428085457
+
+2. Sigma value: 0.30000009
+Mean distance: 18063.42806400775
+Max distance: 55908.24679617894
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 18030.146047948165
+Max distance: 55808.94550607044
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 18018.501587911855
+Max distance: 55752.317050596605
+
+5. Sigma value: 1.20000006
+Mean distance: 18012.638881588166
+Max distance: 55718.50086842354
+
+6. Sigma value: 1.50000005
+Mean distance: 18009.181875752947
+Max distance: 55694.89058370457
+
+7. Sigma value: 1.80000004
+Mean distance: 18006.96486435474
+Max distance: 55676.96976701071
+
+8. Sigma value: 2.10000003
+Mean distance: 18005.462094856714
+Max distance: 55662.67923804561
+
+9. Sigma value: 2.40000002
+Mean distance: 18004.389085103845
+Max distance: 55650.904552031054
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 18003.59304562762
+Max distance: 55647.598316732845
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 18002.9856729293
+Max distance: 55648.006957781916
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 18000.11521959712
+Max distance: 55661.60291767238
+
+2. Sigma value: 30.00000009
+Mean distance: 18000.457867102876
+Max distance: 55652.39539488044
+
+3. Sigma value: 60.00000008
+Mean distance: 18001.9718621635
+Max distance: 55649.0200705655
+
+4. Sigma value: 90.00000007
+Mean distance: 18004.09425589795
+Max distance: 55647.415367448695
+
+5. Sigma value: 120.00000005999999
+Mean distance: 18006.53404205871
+Max distance: 55673.111010199835
+
+6. Sigma value: 150.00000004999998
+Mean distance: 18009.181875752947
+Max distance: 55694.89058370457
+
+7. Sigma value: 180.00000004
+Mean distance: 18011.955824440618
+Max distance: 55714.030140635856
+
+8. Sigma value: 210.00000003
+Mean distance: 18014.774574882587
+Max distance: 55731.309941692605
+
+9. Sigma value: 240.00000002
+Mean distance: 18017.606550445802
+Max distance: 55747.242580373626
+
+10. Sigma value: 270.00000001
+Mean distance: 18020.43277577151
+Max distance: 55762.17002518838
+
+11. Sigma value: 300.0
+Mean distance: 18023.240001746115
+Max distance: 55776.31263888628
+
+
+Flight PXR31F_001 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 17860.92507616646
+Max distance: 32641.25685316685
+
+2. Sigma value: 0.30000009
+Mean distance: 17705.127234068328
+Max distance: 33879.80265824671
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 17671.306094951015
+Max distance: 33829.767327535286
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 17660.14155404001
+Max distance: 33814.36518563428
+
+5. Sigma value: 1.20000006
+Mean distance: 17654.69218394147
+Max distance: 33804.61133469084
+
+6. Sigma value: 1.50000005
+Mean distance: 17651.520668444355
+Max distance: 33798.22116752851
+
+7. Sigma value: 1.80000004
+Mean distance: 17649.476677523176
+Max distance: 33794.4073136488
+
+8. Sigma value: 2.10000003
+Mean distance: 17648.067371067358
+Max distance: 33792.54882804681
+
+9. Sigma value: 2.40000002
+Mean distance: 17647.047511562847
+Max distance: 33792.08596484612
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 17646.282008727692
+Max distance: 33792.56324835968
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 17645.69070943913
+Max distance: 33793.640486825396
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 17642.216505214994
+Max distance: 33828.50354747809
+
+2. Sigma value: 30.00000009
+Mean distance: 17643.003961497143
+Max distance: 33815.20996904885
+
+3. Sigma value: 60.00000008
+Mean distance: 17644.678217091423
+Max distance: 33797.56374516627
+
+4. Sigma value: 90.00000007
+Mean distance: 17646.76214858029
+Max distance: 33792.15968756956
+
+5. Sigma value: 120.00000005999999
+Mean distance: 17649.072958181456
+Max distance: 33793.782674751674
+
+6. Sigma value: 150.00000004999998
+Mean distance: 17651.520668444355
+Max distance: 33798.22116752851
+
+7. Sigma value: 180.00000004
+Mean distance: 17654.055814279847
+Max distance: 33803.339272276775
+
+8. Sigma value: 210.00000003
+Mean distance: 17656.648972388735
+Max distance: 33808.31300362422
+
+9. Sigma value: 240.00000002
+Mean distance: 17659.281755815133
+Max distance: 33812.91648819687
+
+10. Sigma value: 270.00000001
+Mean distance: 17661.942298819304
+Max distance: 33817.1441095434
+
+11. Sigma value: 300.0
+Mean distance: 17664.622751621282
+Max distance: 33821.05040094754
+
+
+Flight N441FS_002 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 85264.463921262
+Max distance: 276350.23105527094
+
+2. Sigma value: 0.30000009
+Mean distance: 75287.60835109648
+Max distance: 240122.2132443555
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 75281.43617101172
+Max distance: 240130.6859052308
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 75280.37215305219
+Max distance: 240188.13935455526
+
+5. Sigma value: 1.20000006
+Mean distance: 75280.26658325891
+Max distance: 240233.3006561892
+
+6. Sigma value: 1.50000005
+Mean distance: 75280.50004970694
+Max distance: 240264.1131142483
+
+7. Sigma value: 1.80000004
+Mean distance: 75280.85919132609
+Max distance: 240285.30191871183
+
+8. Sigma value: 2.10000003
+Mean distance: 75281.25070561492
+Max distance: 240300.3593782354
+
+9. Sigma value: 2.40000002
+Mean distance: 75281.63373638321
+Max distance: 240311.37919380257
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 75281.99408942462
+Max distance: 240319.6199344904
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 75282.33293261155
+Max distance: 240325.87922154414
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 75286.31144471435
+Max distance: 240281.8507571714
+
+2. Sigma value: 30.00000009
+Mean distance: 75285.02973253235
+Max distance: 240349.66674684684
+
+3. Sigma value: 60.00000008
+Mean distance: 75283.10857023807
+Max distance: 240335.98930635024
+
+4. Sigma value: 90.00000007
+Mean distance: 75281.7508748593
+Max distance: 240314.38848691148
+
+5. Sigma value: 120.00000005999999
+Mean distance: 75280.94522650226
+Max distance: 240289.5401390271
+
+6. Sigma value: 150.00000004999998
+Mean distance: 75280.50004970694
+Max distance: 240264.1131142483
+
+7. Sigma value: 180.00000004
+Mean distance: 75280.32993322331
+Max distance: 240239.30391860715
+
+8. Sigma value: 210.00000003
+Mean distance: 75280.36007151281
+Max distance: 240215.9510303139
+
+9. Sigma value: 240.00000002
+Mean distance: 75280.53257968031
+Max distance: 240194.68751765668
+
+10. Sigma value: 270.00000001
+Mean distance: 75280.80575578444
+Max distance: 240175.90912587754
+
+11. Sigma value: 300.0
+Mean distance: 75281.1509121225
+Max distance: 240159.7824646793
+
+
+Flight N441FS_003 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 61676.723110494786
+Max distance: 112154.18666006571
+
+2. Sigma value: 0.30000009
+Mean distance: 57786.95678529506
+Max distance: 137707.77819334858
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 57755.82781664918
+Max distance: 137286.99394443532
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 57746.8762442335
+Max distance: 137111.8372096247
+
+5. Sigma value: 1.20000006
+Mean distance: 57742.84492691163
+Max distance: 137011.08169460035
+
+6. Sigma value: 1.50000005
+Mean distance: 57740.6661221308
+Max distance: 136952.15799144012
+
+7. Sigma value: 1.80000004
+Mean distance: 57739.37614755588
+Max distance: 136917.27409280266
+
+8. Sigma value: 2.10000003
+Mean distance: 57738.57233747487
+Max distance: 136896.49114066272
+
+9. Sigma value: 2.40000002
+Mean distance: 57738.056581596975
+Max distance: 136884.17322126016
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 57737.72166557025
+Max distance: 136877.0500640977
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 57737.50558723785
+Max distance: 136873.17410479955
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 57738.861542030565
+Max distance: 136895.83458251107
+
+2. Sigma value: 30.00000009
+Mean distance: 57737.52231094646
+Max distance: 136887.7160020986
+
+3. Sigma value: 60.00000008
+Mean distance: 57737.29275860923
+Max distance: 136870.93763458153
+
+4. Sigma value: 90.00000007
+Mean distance: 57737.947396795156
+Max distance: 136881.33815903225
+
+5. Sigma value: 120.00000005999999
+Mean distance: 57739.14871892064
+Max distance: 136911.0309548681
+
+6. Sigma value: 150.00000004999998
+Mean distance: 57740.6661221308
+Max distance: 136952.15799144012
+
+7. Sigma value: 180.00000004
+Mean distance: 57742.37986774861
+Max distance: 136998.96912061702
+
+8. Sigma value: 210.00000003
+Mean distance: 57744.2253936761
+Max distance: 137047.6945092996
+
+9. Sigma value: 240.00000002
+Mean distance: 57746.16977802063
+Max distance: 137096.04613649184
+
+10. Sigma value: 270.00000001
+Mean distance: 57748.19171037477
+Max distance: 137142.74117671815
+
+11. Sigma value: 300.0
+Mean distance: 57750.27050683872
+Max distance: 137187.1390917842
+
+
+Flight ADA4_025 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 8950.214589972598
+Max distance: 18184.781912744224
+
+2. Sigma value: 0.30000009
+Mean distance: 12548.095235443261
+Max distance: 33219.832178842255
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 12472.607088581888
+Max distance: 32986.75314871185
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 12446.577253488578
+Max distance: 32921.30909760106
+
+5. Sigma value: 1.20000006
+Mean distance: 12433.654974118548
+Max distance: 32886.55787703439
+
+6. Sigma value: 1.50000005
+Mean distance: 12426.077652159025
+Max distance: 32864.53387419273
+
+7. Sigma value: 1.80000004
+Mean distance: 12421.172872413059
+Max distance: 32849.46498098774
+
+8. Sigma value: 2.10000003
+Mean distance: 12417.779833733452
+Max distance: 32838.69855676644
+
+9. Sigma value: 2.40000002
+Mean distance: 12415.317099744634
+Max distance: 32830.738327420506
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 12413.463362732502
+Max distance: 32824.660141096836
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 12412.027649529595
+Max distance: 32819.87173422121
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 12403.475339204668
+Max distance: 32787.54917155543
+
+2. Sigma value: 30.00000009
+Mean distance: 12405.451285996609
+Max distance: 32792.71875861172
+
+3. Sigma value: 60.00000008
+Mean distance: 12409.568647141858
+Max distance: 32811.32081792591
+
+4. Sigma value: 90.00000007
+Mean distance: 12414.634945576381
+Max distance: 32828.537719559376
+
+5. Sigma value: 120.00000005999999
+Mean distance: 12420.206749449337
+Max distance: 32846.4416985549
+
+6. Sigma value: 150.00000004999998
+Mean distance: 12426.077652159025
+Max distance: 32864.53387419273
+
+7. Sigma value: 180.00000004
+Mean distance: 12432.130528002937
+Max distance: 32882.22613516736
+
+8. Sigma value: 210.00000003
+Mean distance: 12438.291603986454
+Max distance: 32899.32937778592
+
+9. Sigma value: 240.00000002
+Mean distance: 12444.512393389228
+Max distance: 32915.88909406827
+
+10. Sigma value: 270.00000001
+Mean distance: 12450.760632023554
+Max distance: 32932.028636615105
+
+11. Sigma value: 300.0
+Mean distance: 12457.014856231599
+Max distance: 32947.87225700166
+
+
+Flight YS111N_042 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 16484.502611700915
+Max distance: 42568.39484750693
+
+2. Sigma value: 0.30000009
+Mean distance: 22808.852135797417
+Max distance: 41492.043255745084
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 22770.973403093394
+Max distance: 41476.32063359231
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 22758.14470388661
+Max distance: 41481.820220835434
+
+5. Sigma value: 1.20000006
+Mean distance: 22752.24418699551
+Max distance: 41538.863439351364
+
+6. Sigma value: 1.50000005
+Mean distance: 22748.866239173392
+Max distance: 41589.18155282765
+
+7. Sigma value: 1.80000004
+Mean distance: 22746.709864092398
+Max distance: 41622.604747274665
+
+8. Sigma value: 2.10000003
+Mean distance: 22745.230471674317
+Max distance: 41646.8444122945
+
+9. Sigma value: 2.40000002
+Mean distance: 22744.16203637381
+Max distance: 41665.47216287399
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 22743.360282584275
+Max distance: 41680.37274529403
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 22742.740592127142
+Max distance: 41692.65166307648
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 22739.171377219653
+Max distance: 41816.34711331574
+
+2. Sigma value: 30.00000009
+Mean distance: 22739.939789973072
+Max distance: 41771.6830414295
+
+3. Sigma value: 60.00000008
+Mean distance: 22741.67860113776
+Max distance: 41715.92502930184
+
+4. Sigma value: 90.00000007
+Mean distance: 22743.871029851383
+Max distance: 41670.78740737871
+
+5. Sigma value: 120.00000005999999
+Mean distance: 22746.298189315326
+Max distance: 41629.34299597542
+
+6. Sigma value: 150.00000004999998
+Mean distance: 22748.866239173392
+Max distance: 41589.18155282765
+
+7. Sigma value: 180.00000004
+Mean distance: 22751.52987296435
+Max distance: 41548.99947184914
+
+8. Sigma value: 210.00000003
+Mean distance: 22754.26461532136
+Max distance: 41508.15570001962
+
+9. Sigma value: 240.00000002
+Mean distance: 22757.26901906993
+Max distance: 41479.65889216394
+
+10. Sigma value: 270.00000001
+Mean distance: 22760.405644140985
+Max distance: 41484.89652933374
+
+11. Sigma value: 300.0
+Mean distance: 22763.55034994475
+Max distance: 41486.49681802642
+
+
+Flight IGRAD_000 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 20802.39951384934
+Max distance: 82271.92071457086
+
+2. Sigma value: 0.30000009
+Mean distance: 344.9415032741309
+Max distance: 2528.2362359556723
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 316.36903091668944
+Max distance: 2530.5891633013985
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 316.9674859846144
+Max distance: 2558.104469031015
+
+5. Sigma value: 1.20000006
+Mean distance: 322.3033566287309
+Max distance: 2601.161830902676
+
+6. Sigma value: 1.50000005
+Mean distance: 328.3663220567393
+Max distance: 2636.8342925148654
+
+7. Sigma value: 1.80000004
+Mean distance: 334.12247825555517
+Max distance: 2659.12568417736
+
+8. Sigma value: 2.10000003
+Mean distance: 339.10312034477533
+Max distance: 2669.303091695369
+
+9. Sigma value: 2.40000002
+Mean distance: 343.4406883296701
+Max distance: 2670.4073019280404
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 347.23170847368215
+Max distance: 2665.310263771784
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 350.52977082821025
+Max distance: 2656.234686908746
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 388.04711300684744
+Max distance: 2718.396916667733
+
+2. Sigma value: 30.00000009
+Mean distance: 372.76638829390845
+Max distance: 2747.1952691699476
+
+3. Sigma value: 60.00000008
+Mean distance: 357.09797807708003
+Max distance: 2625.343401460859
+
+4. Sigma value: 90.00000007
+Mean distance: 344.76129984025187
+Max distance: 2669.273294242848
+
+5. Sigma value: 120.00000005999999
+Mean distance: 335.4323915914001
+Max distance: 2662.694253552662
+
+6. Sigma value: 150.00000004999998
+Mean distance: 328.3663220567393
+Max distance: 2636.8342925148654
+
+7. Sigma value: 180.00000004
+Mean distance: 323.32379095905645
+Max distance: 2607.935207269531
+
+8. Sigma value: 210.00000003
+Mean distance: 319.84875379720404
+Max distance: 2582.7713681712453
+
+9. Sigma value: 240.00000002
+Mean distance: 317.5659674353259
+Max distance: 2563.3154252070776
+
+10. Sigma value: 270.00000001
+Mean distance: 316.2361953963592
+Max distance: 2549.4262405281497
+
+11. Sigma value: 300.0
+Mean distance: 315.5950278243196
+Max distance: 2540.1879330111774
+
+
+Flight VOR05_034 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 19414.950136568503
+Max distance: 34744.147201506625
+
+2. Sigma value: 0.30000009
+Mean distance: 23088.83344809382
+Max distance: 41735.166370630955
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 23053.574536523443
+Max distance: 41805.53644891364
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 23042.573204548225
+Max distance: 41761.9645976486
+
+5. Sigma value: 1.20000006
+Mean distance: 23037.386219993048
+Max distance: 41715.4047464367
+
+6. Sigma value: 1.50000005
+Mean distance: 23034.443058570967
+Max distance: 41681.0350079181
+
+7. Sigma value: 1.80000004
+Mean distance: 23032.585041462422
+Max distance: 41656.283341558716
+
+8. Sigma value: 2.10000003
+Mean distance: 23031.327043455785
+Max distance: 41638.10639054296
+
+9. Sigma value: 2.40000002
+Mean distance: 23030.43184145579
+Max distance: 41624.436427927794
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 23029.770562580536
+Max distance: 41613.93412249915
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 23029.267626978788
+Max distance: 41605.71521193116
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 23026.68626879328
+Max distance: 41549.39631713851
+
+2. Sigma value: 30.00000009
+Mean distance: 23027.158145216676
+Max distance: 41568.70161332554
+
+3. Sigma value: 60.00000008
+Mean distance: 23028.441964260513
+Max distance: 41591.64718128515
+
+4. Sigma value: 90.00000007
+Mean distance: 23030.195771458773
+Max distance: 41620.634696454246
+
+5. Sigma value: 120.00000005999999
+Mean distance: 23032.228696795257
+Max distance: 41651.21910971699
+
+6. Sigma value: 150.00000004999998
+Mean distance: 23034.443058570967
+Max distance: 41681.0350079181
+
+7. Sigma value: 180.00000004
+Mean distance: 23036.78364075837
+Max distance: 41708.858758254406
+
+8. Sigma value: 210.00000003
+Mean distance: 23039.216684990224
+Max distance: 41733.89322238169
+
+9. Sigma value: 240.00000002
+Mean distance: 23041.720288046025
+Max distance: 41755.56138117968
+
+10. Sigma value: 270.00000001
+Mean distance: 23044.279515595554
+Max distance: 41773.483096177704
+
+11. Sigma value: 300.0
+Mean distance: 23046.883771424444
+Max distance: 41787.473581221966
+
+
+Flight THY1920_050 | Sum Of Errors
+
+Error type: Process Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 89740.89507477709
+Max distance: 183781.12582392892
+
+2. Sigma value: 0.30000009
+Mean distance: 1603.8875794254818
+Max distance: 8087.58183297252
+
+3. Sigma value: 0.6000000799999999
+Mean distance: 1787.2649543304387
+Max distance: 8419.120802965315
+
+4. Sigma value: 0.9000000699999999
+Mean distance: 1896.3895147334736
+Max distance: 9387.064693385622
+
+5. Sigma value: 1.20000006
+Mean distance: 1969.2668575021407
+Max distance: 9989.819587786496
+
+6. Sigma value: 1.50000005
+Mean distance: 2025.1562285107655
+Max distance: 10423.283679397995
+
+7. Sigma value: 1.80000004
+Mean distance: 2069.262253827918
+Max distance: 10761.051495690028
+
+8. Sigma value: 2.10000003
+Mean distance: 2105.3279398640725
+Max distance: 11033.76272244086
+
+9. Sigma value: 2.40000002
+Mean distance: 2135.7567139616294
+Max distance: 11256.746327187004
+
+10. Sigma value: 2.7000000099999997
+Mean distance: 2161.887149785787
+Max distance: 11439.583583611935
+
+11. Sigma value: 2.9999999999999996
+Mean distance: 2184.6918976356988
+Max distance: 11589.340748933082
+
+
+Error type: Observation Noise Errors
+1. Sigma value: 1e-07
+Mean distance: 2478.116147474957
+Max distance: 12710.622184528105
+
+2. Sigma value: 30.00000009
+Mean distance: 2347.586564578224
+Max distance: 12156.087551789713
+
+3. Sigma value: 60.00000008
+Mean distance: 2232.0735121819457
+Max distance: 11853.74105865478
+
+4. Sigma value: 90.00000007
+Mean distance: 2144.946422970785
+Max distance: 11321.767487981067
+
+5. Sigma value: 120.00000005999999
+Mean distance: 2078.966759910281
+Max distance: 10834.577126130574
+
+6. Sigma value: 150.00000004999998
+Mean distance: 2025.1562285107655
+Max distance: 10423.283679397995
+
+7. Sigma value: 180.00000004
+Mean distance: 1979.5569556756138
+Max distance: 10070.956109638913
+
+8. Sigma value: 210.00000003
+Mean distance: 1940.629598446314
+Max distance: 9759.37491855634
+
+9. Sigma value: 240.00000002
+Mean distance: 1906.7515533312926
+Max distance: 9476.388514116905
+
+10. Sigma value: 270.00000001
+Mean distance: 1876.427451363666
+Max distance: 9214.778289816511
+
+11. Sigma value: 300.0
+Mean distance: 1848.6635430059584
+Max distance: 8970.30929566128
+
+
+Process noise: best parameters are:
+(mean distance, max distance): (0.6000000799999999, 0.6000000799999999)
+
+Observation noise: best parameters are:
+(mean distance, max distance): (300.0, 300.0)
