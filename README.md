@@ -10,13 +10,13 @@ References:
 
 ### Examples:
 
-###### Filtered without smoothing
+#### Filtered without smoothing
 
 ![Example CFL12_041](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/Example%20CFL12_041.png)
 ![Example FGALN_005](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/Example%20FGALN_005.png)
 ![Example OOLET_056](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/Example%20OOLET_056.png)
 
-###### Filtered with smoothing
+#### Filtered with smoothing
 
 ![Smoothed CFL12_041](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/CFL12_041%20Smoothed.png)
 ![Smoothed FGALN_005](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/FGALN_005%20Smoothed.png)
