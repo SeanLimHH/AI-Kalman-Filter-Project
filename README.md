@@ -20,4 +20,4 @@ Done in Python and used FilterPy for simplifying matrix computations.
 
 ![Smoothed CFL12_041](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/CFL12_041%20Smoothed.png)
 ![Smoothed FGALN_005](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/FGALN_005%20Smoothed.png)
-![Smoothed OOLET_056](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/Example%20OOLET_056.png)
+![Smoothed OOLET_056](https://github.com/SeanLimHH/AI-Kalman-Filter-Project/blob/main/OOLET_056%20Smoothed.png)
